@@ -13,6 +13,10 @@ p {
   margin: 0;
 }
 
+.row {
+  width: 100%;
+}
+
 .container {
 	border: none;
 	margin-left: auto;
@@ -74,10 +78,6 @@ section {
 	background-color: #6495ED;
 	color: white;
   padding: 5px;
-}
-
-.row {
-  width: 100%;
 }
 
 /* Desktop view */
