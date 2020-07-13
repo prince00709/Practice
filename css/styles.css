@@ -30,7 +30,7 @@ section {
 	border: 1px solid black;
 	background-color: #808080;
 	width: 100%;
-	height: 240px;
+	height: auto;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
